@@ -4,29 +4,29 @@
     <string name="app_launcher_name">ギャラリー</string>
     <string name="edit">編集</string>
     <string name="open_camera">カメラを開く</string>
-    <string name="open_with">&#8230;で開く</string>
+    <string name="open_with">他のアプリで開く&#8230;</string>
     <string name="no_app_found">有効なアプリが見つかりません</string>
     <string name="hidden">(非表示)</string>
-    <string name="pin_folder">Pin folder</string>
-    <string name="unpin_folder">Unpin folder</string>
-    <string name="show_all">Show all folders content</string>
-    <string name="all_folders">All media</string>
-    <string name="folder_view">Switch to folder view</string>
+    <string name="pin_folder">フォルダをピン止め</string>
+    <string name="unpin_folder">フォルダのピン止めを外す</string>
+    <string name="show_all">すベてのメディアを表示</string>
+    <string name="all_folders">すベてのメディア</string>
+    <string name="folder_view">フォルダごとに表示</string>
     <string name="other_folder">Other folder</string>
-    <string name="show_on_map">Show on map</string>
-    <string name="unknown_location">Unknown location</string>
-    <string name="no_map_application">No application with maps has been found</string>
-    <string name="no_camera_app_found">No Camera app has been found</string>
-    <string name="increase_column_count">Increase column count</string>
-    <string name="reduce_column_count">Reduce column count</string>
-    <string name="change_cover_image">Change cover image</string>
-    <string name="select_photo">Select photo</string>
-    <string name="use_default">Use default</string>
-    <string name="set_as">Set as</string>
+    <string name="show_on_map">地図を表示</string>
+    <string name="unknown_location">GPS情報がありません</string>
+    <string name="no_map_application">地図アプりがみつかりません</string>
+    <string name="no_camera_app_found">カメラアプリがみつかりません</string>
+    <string name="increase_column_count">カラムを増やす</string>
+    <string name="reduce_column_count">カラムを減らす</string>
+    <string name="change_cover_image">表紙画像の変更</string>
+    <string name="select_photo">画像選択</string>
+    <string name="use_default">デフォルト</string>
+    <string name="set_as">壁紙に設定</string>
 
     <!-- Hide / Exclude -->
     <string name="hide_folder_description">This function hides the folder by adding a \'.nomedia\' file into it, it will hide all subfolders too. You can see them by toggling the \'Show hidden folders\' option in Settings. Continue?</string>
-    <string name="exclude">Exclude</string>
+    <string name="exclude">非表示のフォルダ</string>
     <string name="excluded_folders">Excluded folders</string>
     <string name="manage_excluded_folders">Manage excluded folders</string>
     <string name="exclude_folder_description">This will exclude the selection together with its subfolders from Simple Gallery only. You can manage excluded folders in Settings.</string>
@@ -36,37 +36,37 @@
     <string name="remove_all_description">Remove all folders from the list of excluded? This will not delete the folders.</string>
 
     <!-- Include folders -->
-    <string name="include_folders">Included folders</string>
+    <string name="include_folders"表示するフォルダ></string>
     <string name="manage_included_folders">Manage included folders</string>
-    <string name="add_folder">Add folder</string>
+    <string name="add_folder">フォルダの追加</string>
     <string name="included_activity_placeholder">If you have some folders which contain media, but were not recognized by the app, you can add them manually here.</string>
 
     <!-- Resizing -->
-    <string name="resize">Resize</string>
-    <string name="resize_and_save">Resize selection and save</string>
-    <string name="width">Width</string>
-    <string name="height">Height</string>
-    <string name="keep_aspect_ratio">Keep aspect ratio</string>
-    <string name="invalid_values">Please enter a valid resolution</string>
+    <string name="resize">リサイズ</string>
+    <string name="resize_and_save">リサイズして保存</string>
+    <string name="width">幅</string>
+    <string name="height">高さ</string>
+    <string name="keep_aspect_ratio">アスペクト比を維持</string>
+    <string name="invalid_values">正しい解像度を入力して下さい</string>
 
     <!-- Editor -->
-    <string name="editor">エディター</string>
+    <string name="editor">編集</string>
     <string name="save">保存</string>
     <string name="rotate">回転</string>
-    <string name="path">Path</string>
+    <string name="path">パス</string>
     <string name="invalid_image_path">無効な画像パス</string>
     <string name="image_editing_failed">画像の編集に失敗しました</string>
     <string name="edit_image_with">画像を編集:</string>
     <string name="no_editor_found">画像エディターが見つかりません</string>
     <string name="unknown_file_location">ファイルの場所が不明です</string>
     <string name="error_saving_file">元のファイルを上書きできません</string>
-    <string name="rotate_left">Rotate left</string>
-    <string name="rotate_right">Rotate right</string>
-    <string name="rotate_one_eighty">Rotate by 180º</string>
-    <string name="flip">Flip</string>
-    <string name="flip_horizontally">Flip horizontally</string>
-    <string name="flip_vertically">Flip vertically</string>
-    <string name="edit_with">Edit with</string>
+    <string name="rotate_left">左回転</string>
+    <string name="rotate_right">右回転</string>
+    <string name="rotate_one_eighty">180º回転</string>
+    <string name="flip">反転</string>
+    <string name="flip_horizontally">横に反転</string>
+    <string name="flip_vertically">縦に反転</string>
+    <string name="edit_with">他のアプリで編集</string>
 
     <!-- Set wallpaper -->
     <string name="simple_wallpaper">シンプル壁紙</string>
@@ -76,31 +76,31 @@
     <string name="no_capable_app_found">対応できるアプリが見つかりません</string>
     <string name="setting_wallpaper">壁紙の設定&#8230;</string>
     <string name="wallpaper_set_successfully">壁紙を正常に設定しました</string>
-    <string name="portrait_aspect_ratio">Portrait aspect ratio</string>
-    <string name="landscape_aspect_ratio">Landscape aspect ratio</string>
+    <string name="portrait_aspect_ratio">縦のアスペクト比</string>
+    <string name="landscape_aspect_ratio">横のアスペクト比</string>
 
     <!-- Settings -->
     <string name="show_hidden_media">非表示フォルダーを表示</string>
     <string name="autoplay_videos">自動的にビデオを再生</string>
     <string name="toggle_filename">ファイル名の表示を切り替え</string>
-    <string name="show_media">Show media</string>
-    <string name="images">Images only</string>
-    <string name="videos">Videos only</string>
-    <string name="gifs">GIFs only</string>
-    <string name="images_videos_gifs">Images, videos, GIFs</string>
-    <string name="images_and_videos">Images and videos</string>
-    <string name="loop_videos">Loop videos</string>
-    <string name="animate_gifs">Animate GIFs at thumbnails</string>
-    <string name="max_brightness">Max brightness when viewing media</string>
-    <string name="crop_thumbnails">Crop thumbnails into squares</string>
-    <string name="screen_rotation_by">Rotate fullscreen media by</string>
-    <string name="screen_rotation_system_setting">System setting</string>
-    <string name="screen_rotation_device_rotation">Device rotation</string>
-    <string name="screen_rotation_aspect_ratio">Aspect ratio</string>
-    <string name="dark_background_at_fullscreen">Dark background at fullscreen media</string>
-    <string name="scroll_thumbnails_horizontally">Scroll thumbnails horizontally</string>
-    <string name="hide_system_ui_at_fullscreen">Automatically hide system UI at fullscreen media</string>
-    <string name="replace_share_with_rotate">Replace Share with Rotate at fullscreen menu</string>
+    <string name="show_media">メディアの種類</string>
+    <string name="images">画像のみ</string>
+    <string name="videos">動画のみ</string>
+    <string name="gifs">GIFのみ</string>
+    <string name="images_videos_gifs">画像、動画、GIF</string>
+    <string name="images_and_videos">画像と動画</string>
+    <string name="loop_videos">動画をループする</string>
+    <string name="animate_gifs">アニメGIFをサムネイルにする</string>
+    <string name="max_brightness">メディアを表示時、明るさを最大にする</string>
+    <string name="crop_thumbnails">サムネイルを四角に切りぬく</string>
+    <string name="screen_rotation_by">フルスクリーン時のメディアの回転</string>
+    <string name="screen_rotation_system_setting">システム設定</string>
+    <string name="screen_rotation_device_rotation">デバイスの向き</string>
+    <string name="screen_rotation_aspect_ratio">アスペクト比</string>
+    <string name="dark_background_at_fullscreen">フルスクリーン時背景を暗くする</string>
+    <string name="scroll_thumbnails_horizontally">サムネイルを横スクロールする</string>
+    <string name="hide_system_ui_at_fullscreen">フルスクリーン時システムUIを隠す</string>
+    <string name="replace_share_with_rotate">フルスクリーン時共有ボタンの代わりに回転ボタンを表示</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
